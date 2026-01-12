@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StockMgmt.Api</name>
+    </assembly>
+    <members>
+        <member name="M:StockMgmt.Api.Controllers.CategoriesController.GetAll">
+            <summary>
+            Get all categories
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.CategoriesController.GetById(System.Int32)">
+            <summary>
+            Get category by ID
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.CategoriesController.Create(StockMgmt.Core.DTOs.Category.CategoryCreateDto)">
+            <summary>
+            Create a new category
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.CategoriesController.Update(System.Int32,StockMgmt.Core.DTOs.Category.CategoryUpdateDto)">
+            <summary>
+            Update an existing category
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.CategoriesController.Delete(System.Int32)">
+            <summary>
+            Delete a category (soft delete)
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.ProductsController.GetAll">
+            <summary>
+            Get all products
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.ProductsController.GetById(System.Int32)">
+            <summary>
+            Get product by ID
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.ProductsController.Create(StockMgmt.Core.DTOs.Product.ProductCreateDto)">
+            <summary>
+            Create a new product
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.ProductsController.Update(System.Int32,StockMgmt.Core.DTOs.Product.ProductUpdateDto)">
+            <summary>
+            Update an existing product
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.ProductsController.Delete(System.Int32)">
+            <summary>
+            Delete a product (soft delete) - Admin only
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.ReviewsController.GetAll">
+            <summary>
+            Get all reviews
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.ReviewsController.GetById(System.Int32)">
+            <summary>
+            Get review by ID
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.ReviewsController.Create(StockMgmt.Core.DTOs.Review.ReviewCreateDto)">
+            <summary>
+            Create a new review
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.ReviewsController.Update(System.Int32,StockMgmt.Core.DTOs.Review.ReviewUpdateDto)">
+            <summary>
+            Update an existing review
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.ReviewsController.Delete(System.Int32)">
+            <summary>
+            Delete a review (soft delete)
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.SuppliersController.GetAll">
+            <summary>
+            Get all suppliers
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.SuppliersController.GetById(System.Int32)">
+            <summary>
+            Get supplier by ID
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.SuppliersController.Create(StockMgmt.Core.DTOs.Supplier.SupplierCreateDto)">
+            <summary>
+            Create a new supplier
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.SuppliersController.Update(System.Int32,StockMgmt.Core.DTOs.Supplier.SupplierUpdateDto)">
+            <summary>
+            Update an existing supplier
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.SuppliersController.Delete(System.Int32)">
+            <summary>
+            Delete a supplier (soft delete)
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.UsersController.GetAll">
+            <summary>
+            Get all users
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.UsersController.GetById(System.Int32)">
+            <summary>
+            Get user by ID
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.UsersController.Create(StockMgmt.Core.DTOs.User.UserCreateDto)">
+            <summary>
+            Create a new user
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.UsersController.Update(System.Int32,StockMgmt.Core.DTOs.User.UserUpdateDto)">
+            <summary>
+            Update an existing user
+            </summary>
+        </member>
+        <member name="M:StockMgmt.Api.Controllers.UsersController.Delete(System.Int32)">
+            <summary>
+            Delete a user (soft delete)
+            </summary>
+        </member>
+    </members>
+</doc>

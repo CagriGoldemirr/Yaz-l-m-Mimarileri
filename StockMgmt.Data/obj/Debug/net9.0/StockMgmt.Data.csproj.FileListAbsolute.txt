@@ -1,0 +1,17 @@
+C:\Users\seray\Desktop\1101\StockMgmt.Data\bin\Debug\net9.0\StockMgmt.Data.deps.json
+C:\Users\seray\Desktop\1101\StockMgmt.Data\bin\Debug\net9.0\StockMgmt.Data.runtimeconfig.json
+C:\Users\seray\Desktop\1101\StockMgmt.Data\bin\Debug\net9.0\StockMgmt.Data.dll
+C:\Users\seray\Desktop\1101\StockMgmt.Data\bin\Debug\net9.0\StockMgmt.Data.pdb
+C:\Users\seray\Desktop\1101\StockMgmt.Data\bin\Debug\net9.0\StockMgmt.Core.dll
+C:\Users\seray\Desktop\1101\StockMgmt.Data\bin\Debug\net9.0\StockMgmt.Core.pdb
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\StockMgmt.Data.csproj.AssemblyReference.cache
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\StockMgmt.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\StockMgmt.Data.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\StockMgmt.Data.AssemblyInfo.cs
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\StockMgmt.Data.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\StockMgm.36CB3805.Up2Date
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\StockMgmt.Data.dll
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\refint\StockMgmt.Data.dll
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\StockMgmt.Data.pdb
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\StockMgmt.Data.genruntimeconfig.cache
+C:\Users\seray\Desktop\1101\StockMgmt.Data\obj\Debug\net9.0\ref\StockMgmt.Data.dll
